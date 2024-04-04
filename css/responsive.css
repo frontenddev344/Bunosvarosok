@@ -31,7 +31,7 @@
         left: 0;
         top: 0;
         bottom: 0;
-        background: #004F44;
+        background: var(--primary-color);
         width: 400px;
         padding: 40px;
         margin: 0;
@@ -68,10 +68,15 @@
         margin-top: 20px;
         padding-top: 10px;
     }
-}
-    @media screen and (max-width:991px) {
 
-        .hotel_box {
-            margin-bottom: 35px;
-        }
+    #search-wrapper {
+        max-width: 250px;
     }
+}
+
+@media screen and (max-width:991px) {
+
+    .hotel_box {
+        margin-bottom: 35px;
+    }
+}
