@@ -195,6 +195,25 @@ nav {
 }
 
 /* hotel styling end */
+/* food styling start */
+.hotel_banner {
+    height: 400px;
+    background-image: url(../img/hotelbanner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.hotel_banner::before {
+    position: absolute;
+    content: '';
+    background: #000000a8;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+/* food styling end */
 /* below banner styling start */
 .below_section {
     padding: 80px 0px;
@@ -286,7 +305,7 @@ a.view:hover {
 }
 
 .bottom_text_section {
-	background-color: #786d5f1f;
+    background-color: #786d5f1f;
     padding: 80px 0;
 }
 
