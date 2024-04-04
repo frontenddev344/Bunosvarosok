@@ -105,6 +105,7 @@ nav {
 .closebutton {
     display: none;
 }
+
 /* navbar stylng end */
 /* home page start */
 .home_banner {
@@ -144,7 +145,24 @@ nav {
     font-size: 45px;
     text-transform: uppercase;
 }
+
 /* home page end */
+/* blog styling start */
+.blog_section {
+    padding: 80px 0;
+}
+
+.blog_heading h2 {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.blog_heading {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* blog styling end */
 /* contact styling start */
 .contact_banner {
     height: 400px;
