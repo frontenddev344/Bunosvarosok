@@ -196,7 +196,7 @@ nav {
 
 /* hotel styling end */
 /* food styling start */
-.hotel_banner {
+.food_banner {
     height: 400px;
     background-image: url(../img/hotelbanner.jpg);
     background-size: cover;
@@ -205,7 +205,7 @@ nav {
     position: relative;
 }
 
-.hotel_banner::before {
+.food_banner::before {
     position: absolute;
     content: '';
     background: #000000a8;
