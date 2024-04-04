@@ -213,6 +213,7 @@ nav {
     height: 100%;
     z-index: 0;
 }
+
 /* food styling end */
 /* below banner styling start */
 .below_section {
@@ -258,6 +259,24 @@ nav {
 
 /* hotel detail styling end */
 /* events styling start */
+.event_banner {
+    height: 400px;
+    background-image: url(../img/eventsbanner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.event_banner::before {
+    position: absolute;
+    content: '';
+    background: #000000a8;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
 .events_section {
     padding: 80px 0;
 }
