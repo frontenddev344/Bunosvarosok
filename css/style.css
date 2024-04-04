@@ -214,6 +214,12 @@ nav {
 }
 
 /* below banner styling end */
+/* hotel detail styling start */
+.hotel_detail {
+    padding: 80px 0;
+}
+
+/* hotel detail styling end */
 /* contact styling start */
 .contact_banner {
     height: 400px;
