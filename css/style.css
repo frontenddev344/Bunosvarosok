@@ -219,6 +219,17 @@ nav {
     padding: 80px 0;
 }
 
+.detail_inner {
+    text-align: center;
+    height: 100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    padding: 20px 15px;
+    border-bottom: 2px solid var(--main-color);
+    background-color: #fff;
+    transition: all 0.5s;
+}
+
 /* hotel detail styling end */
 /* contact styling start */
 .contact_banner {
