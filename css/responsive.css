@@ -1,7 +1,7 @@
 @media screen and (max-width:1200px) {
     body.toggle .navlink {
         transform: translateX(0);
-        
+
     }
 
     .open {
@@ -57,10 +57,6 @@
         padding: 10px;
     }
 
-    .box1 h2 {
-        margin-top: 10px;
-    }
-
     .social_profile ul li a {
         font-size: 18px;
         width: 45px;
@@ -72,14 +68,10 @@
         margin-top: 20px;
         padding-top: 10px;
     }
-
-    .same_box h1 {
-        font-size: 35px;
-    }
-
-    .same_box p {
-        font-size: 16px;
-
-    }
-    
 }
+    @media screen and (max-width:991px) {
+
+        .hotel_box {
+            margin-bottom: 35px;
+        }
+    }
