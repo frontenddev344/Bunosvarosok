@@ -105,7 +105,7 @@ nav {
 .closebutton {
     display: none;
 }
-
+/* navbar stylng end */
 /* home page start */
 .home_banner {
     height: 500px;
@@ -144,13 +144,11 @@ nav {
     font-size: 45px;
     text-transform: uppercase;
 }
-
 /* home page end */
-/* navbar stylng end */
 /* contact styling start */
 .contact_banner {
     height: 400px;
-    background-image: url(../image/contactusbanner.jpg);
+    background-image: url(../img/);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
