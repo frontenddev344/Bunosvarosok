@@ -266,7 +266,7 @@ input.form-control.sub_btn:hover {
     background-image: url(../img/privacybanner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: revert;
     object-fit: cover;
     margin-top: 0;
     isolation: isolate;
