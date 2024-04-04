@@ -107,7 +107,7 @@ nav {
 }
 
 /* home page start */
-.casino_banner {
+.home_banner {
     height: 500px;
     background-image: url(../img/homebanner.jpg);
     background-size: cover;
@@ -116,7 +116,7 @@ nav {
     position: relative;
 }
 
-.casino_banner::before {
+.home_banner::before {
     position: absolute;
     content: '';
     background: #000000a8;
