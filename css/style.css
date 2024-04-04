@@ -303,134 +303,135 @@ input.form-control.sub_btn:hover {
 /* terms styling end */
 /* footer styling */
 .footer {
-	padding: 40px 0;
+    padding: 40px 0;
     background: var(--primary-color);
 }
 
 /*END FOOTER SOCIAL DESIGN*/
 .self_footer h4 img {
-	max-width: 200px;
+    max-width: 200px;
 }
 
 
 .self_footer h4 {
-	color: var(--main-color);
-	margin-top: 0;
-	margin-bottom: 5px;
-	font-weight: 700;
-	text-transform: uppercase;
-	font-size: 20px;
+    color: var(--main-color);
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 20px;
 }
+
 .self_footer p {
-	color: var(--main-color);
-	text-transform: uppercase;
-	margin: 21px 0 0;
+    color: var(--main-color);
+    text-transform: uppercase;
+    margin: 21px 0 0;
 }
 
 .self_footer ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 .self_footer ul li {
-	font-weight: 400;
-	color: var(--secondary-color);
-	line-height: 28px;
+    font-weight: 400;
+    color: var(--secondary-color);
+    line-height: 28px;
 }
 
 .self_footer ul li a {
-	color: var(--font-color);
-	-webkit-transition: all 0.3s ease 0s;
-	transition: all 0.3s ease 0s;
-	line-height: 28px;
-	font-size: 15px;
-	text-transform: capitalize;
+    color: var(--font-color);
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    line-height: 28px;
+    font-size: 15px;
+    text-transform: capitalize;
 }
 
 .self_footer ul li a:hover {
-	color: var(--main-color);
+    color: var(--main-color);
 }
 
 .self_footer_address ul li {
-	color: #fff;
-	font-size: 15px;
+    color: #fff;
+    font-size: 15px;
 }
 
 .self_footer_address ul li span {
-	font-weight: 400;
-	color: #fff;
-	line-height: 28px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 28px;
 }
 
 .self_footer {
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .contact_social ul {
-	list-style: outside none none;
-	margin: 0;
-	padding: 0;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
 }
 
 /*END NEWSLETTER CSS*/
 
 /*START SOCIAL PROFILE CSS*/
 .social_profile {
-	margin-top: 30px;
+    margin-top: 30px;
 }
 
 .social_profile ul {
-	list-style: outside none none;
-	margin: 0;
-	padding: 0;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
 }
 
 .social_profile ul li {
-	float: left;
+    float: left;
 }
 
 .social_profile ul li a {
-	text-align: center;
-	border: 0px;
-	text-transform: uppercase;
-	transition: all 0.3s ease 0s;
-	margin: 0px 8px 0 0;
-	font-size: 18px;
-	color:var(--primary-color);
-	border-radius: 50%;
-	width: 50px;
-	height: 50px;
-	border: 2px solid var(--main-color);
-	background: var(--main-color);
-	display: inline-flex;
-	justify-content: center;
-	align-items: center;
+    text-align: center;
+    border: 0px;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    margin: 0px 8px 0 0;
+    font-size: 18px;
+    color: var(--primary-color);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 2px solid var(--main-color);
+    background: var(--main-color);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .social_profile ul li a:hover {
-	background:transparent;
-	border: 1px solid var(--main-color);
-	color: var(--main-color);
+    background: transparent;
+    border: 1px solid var(--main-color);
+    color: var(--main-color);
 }
 
 /*END SOCIAL PROFILE CSS*/
 .copyright {
-	margin-top: 70px;
-	padding-top: 40px;
-	color: var(--main-color);
-	font-size: 15px;
-	border-top: 1px solid var(--main-color);
-	text-align: center;
+    margin-top: 70px;
+    padding-top: 40px;
+    color: var(--main-color);
+    font-size: 15px;
+    border-top: 1px solid var(--main-color);
+    text-align: center;
 }
 
 .copyright a {
-	color: var(--font-color);
-	transition: all 0.2s ease 0s;
+    color: var(--font-color);
+    transition: all 0.2s ease 0s;
 }
 
 .copyright a:hover {
-	color: var(--secondary-color);
+    color: var(--secondary-color);
 }
 
 /* footer styling end */
@@ -466,7 +467,7 @@ input.form-control.sub_btn:hover {
     border: none;
     cursor: pointer;
     color: #fff;
-    background-color:var(--primary-color);
+    background-color: var(--primary-color);
     padding: 0px 10px;
 }
 
