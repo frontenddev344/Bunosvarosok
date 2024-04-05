@@ -103,6 +103,15 @@
     .banner_box h1 {
         font-size: 35px;
     }
+
+    .blog_section {
+        padding: 40px 0;
+    }
+
+    .blog_heading {
+        text-align: center;
+        margin-bottom: 30px;
+    }
 }
 
 @media screen and (max-width:575px) {
