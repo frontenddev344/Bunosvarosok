@@ -99,6 +99,10 @@
         width: 60%;
         margin-top: 20px;
     }
+
+    .banner_box h1 {
+        font-size: 35px;
+    }
 }
 
 @media screen and (max-width:575px) {
@@ -114,7 +118,12 @@
     .box img {
         width: 90px;
     }
+
     .blog_img img {
         width: 100%;
+    }
+
+    .banner_box h1 {
+        font-size: 30px;
     }
 }
