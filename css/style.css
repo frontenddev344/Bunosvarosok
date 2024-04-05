@@ -61,7 +61,10 @@ h2 {
     padding-bottom: 10px;
     text-transform: capitalize;
 }
-
+.active {
+    color: var(--main-color);
+    border-bottom: 1px solid;
+}
 /* navbar styling  */
 nav {
     background-color: var(--primary-color);
