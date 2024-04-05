@@ -79,4 +79,28 @@
     .hotel_box {
         margin-bottom: 35px;
     }
+
+    .row.upcoming_events h3 {
+        margin-bottom: 0;
+        margin-top: 20px;
+    }
+
+    .right_side_ab {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .row.upcoming_events {
+        padding-left: 20px;
+        margin-left: 20px;
+    }
+
+    .row.upcoming_events h3 {
+        font-size: 28px;
+    }
+
+    .box img {
+        width: 90px;
+    }
 }
