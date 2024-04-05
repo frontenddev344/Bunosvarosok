@@ -363,10 +363,19 @@ a.view:hover {
     font-size: 35px;
     margin-top: 20px;
 }
-.home_asidebar{
+
+.home_asidebar {
     padding: 80px 0;
     background: #786d5f1f;
 }
+
+.left_side_ab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
 /* home aside styling end */
 /* contact styling start */
 .contact_banner {
