@@ -262,7 +262,7 @@ nav {
     transition: all 0.5s;
 }
 
-.detail_inner article {
+.detail_inner .img_design {
     overflow: hidden;
     height: 250px;
     display: block;
