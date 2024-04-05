@@ -88,6 +88,17 @@
     .right_side_ab {
         margin-top: 20px;
     }
+
+    .blog_img img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .blog_img img {
+        width: 60%;
+        margin-top: 20px;
+    }
 }
 
 @media screen and (max-width:575px) {
@@ -102,5 +113,8 @@
 
     .box img {
         width: 90px;
+    }
+    .blog_img img {
+        width: 100%;
     }
 }
