@@ -261,7 +261,13 @@ nav {
     background-color: #fff;
     transition: all 0.5s;
 }
-
+.detail_inner  article {
+    overflow: hidden;
+    height: 200px;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
 .detail_inner img:hover {
     transform: scale(1.1);
 }
