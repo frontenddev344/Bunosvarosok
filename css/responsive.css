@@ -112,6 +112,22 @@
         text-align: center;
         margin-bottom: 30px;
     }
+
+    .home_asidebar {
+        padding: 40px 0;
+    }
+
+    .below_section {
+        padding: 40px 0px;
+    }
+
+    .hotel_detail {
+        padding: 40px 0;
+    }
+
+    .bottom_text_section {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width:575px) {
