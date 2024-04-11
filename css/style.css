@@ -398,6 +398,9 @@ a.view:hover {
 .box2 {
     width: 60%;
 }
+.box2 a {
+    color: #000;
+}
 .row.upcoming_events {
     border-left: 2px solid var(--primary-color);
     padding-left: 40px;
