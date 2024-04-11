@@ -61,12 +61,13 @@ h2 {
     padding-bottom: 10px;
     text-transform: capitalize;
 }
-
 .active {
-    color: var(--main-color);
+    color: var(--secondary-color) !important;
     border-bottom: 1px solid;
 }
-
+.navlink ul li a:hover {
+    color: #000;
+}
 /* navbar styling  */
 nav {
     background-color: var(--primary-color);
