@@ -92,6 +92,10 @@
     .blog_img img {
         width: 100%;
     }
+
+    .blog_text h3 {
+        width: 452px;
+    }
 }
 
 @media screen and (max-width:767px) {
