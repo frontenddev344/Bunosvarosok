@@ -392,7 +392,12 @@ a.view:hover {
     font-size: 18px;
     margin-bottom: 2px;
 }
-
+.box {
+    width: 30%;
+}
+.box2 {
+    width: 60%;
+}
 .row.upcoming_events {
     border-left: 2px solid var(--primary-color);
     padding-left: 40px;
