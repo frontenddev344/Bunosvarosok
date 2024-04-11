@@ -127,6 +127,7 @@
 
     .bottom_text_section {
         padding: 40px 0;
+        text-align: left;
     }
 
     .events_section {
